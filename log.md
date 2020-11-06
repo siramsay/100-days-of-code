@@ -10,11 +10,13 @@
 
 ### Day 2: 2020, November 6, Friday
 
-**Today's Progress**: ~~Fixed CSS, worked on canvas functionality for the app.~~
+**Today's Progress**: 
+1. Work on CSS drawing boiler plate file, making it fully responsive nad documenting the code. Was a mainly CSS and flexbox.
+2. Removed the .gitignore and documented why in the file, left the file but renamed it .gitignore_default with instructions.
 
-**Thoughts**: ~~I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.~~
+**Thoughts**: Not quite ready to push the boiler plate public but will do once I feel others could understand it and maybe find it useful, no rush really.
 
-**Link(s) to work**: ~~[My Public Link ](http://www.example.com)~~
+**Link(s) to work**: ~~[.gitignore_default](https://github.com/siramsay/100-days-of-code/blob/master/.gitignore_default)
 
 
 ### Day 1: 2020, November 5, Thursday
