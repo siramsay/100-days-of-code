@@ -1,17 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 3: 2020 November 7, Saturday
+### Day 4: 2020 November 11, Wednesday
 
-**Today's Progress**: ~~Fixed CSS, worked on canvas functionality for the app.~~
+**Today's Progress**: 
+1. Work on CSS drawing boiler plate file, added a toggle to make on hover deactivate-able.
+2. Worked with 3D and animation in CSS. 
 
-**Thoughts:** ~~I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.~~
+**Thoughts:** There is many ways of doing stuff, after playing with the idea of using offset-path to animate an object I managed to achieve the same with rotateZ() and wrapper div. 
 
-**Link to work:** ~~[My Public Link](http://www.example.com)~~
+**Link to work:** localhost
+
+
+### Day 3: 2020 November 9, Monday
+
+**Today's Progress**: Work on CSS drawing boiler plate file.
+1. Work on CSS drawing boiler plate file.
+2. Worked with 3D space with CSS. 
+
+**Thoughts:** Try to grasp the 3D space in CSS is quite difficult even with extensive experience using Lightwave 3D.
+
+**Link to work:** localhost
+
 
 ### Day 2: 2020, November 6, Friday
 
 **Today's Progress**: 
-1. Work on CSS drawing boiler plate file, making it fully responsive nad documenting the code. Was a mainly CSS and flexbox.
+1. Work on CSS drawing boiler plate file, making it fully responsive and documenting the code. Was a mainly CSS and flexbox.
 2. Removed the .gitignore and documented why in the file, left the file but renamed it .gitignore_default with instructions.
 
 **Thoughts**: Not quite ready to push the boiler plate public but will do once I feel others could understand it and maybe find it useful, no rush really.
