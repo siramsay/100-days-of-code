@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 1: 2020 November 17, Tuesday
+
+**Today's Progress**: 
+1. Work on CSS drawing boiler plate file, coded the toggle for background different now it remove the id.
+2. Worked with 3D and animation in CSS. Got the Atomic animation finished up. 
+3. Add the vue router to my simonramsay.net, including remove the hash in the routes.
+
+**Thoughts:** vuejs seem nice and logically to use
+**Link to work:** localhost
+
+### re-start
+
 ### Day 4: 2020 November 11, Wednesday
 
 **Today's Progress**: 
