@@ -5,7 +5,7 @@
 **Today's Progress**: 
 1. Work on CSS drawing boiler plate file, coded the toggle for background different now it remove the id.
 2. Worked with 3D and animation in CSS. Got the Atomic animation finished up. 
-3. Add the vue router to my simonramsay.net, including remove the hash in the routes.
+3. Add the vue router to my simonramsay.net
 
 **Thoughts:** vuejs seem nice and logically to use
 
