@@ -8,6 +8,7 @@
 3. Add the vue router to my simonramsay.net, including remove the hash in the routes.
 
 **Thoughts:** vuejs seem nice and logically to use
+
 **Link to work:** localhost
 
 ### re-start
