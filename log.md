@@ -13,6 +13,8 @@
 **Link to work:** 
 [3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
 [simonramsay.net](https://simonramsay.net)
+1. [3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
+2. [simonramsay.net](https://simonramsay.net)
 
 
 ### Day 1: 2020 November 17, Tuesday
@@ -59,6 +61,7 @@
 **Thoughts**: Not quite ready to push the boiler plate public but will do once I feel others could understand it and maybe find it useful, no rush really.
 
 **Link(s) to work**: ~~[.gitignore_default](https://github.com/siramsay/100-days-of-code/blob/master/.gitignore_default)
+**Link(s) to work**: [.gitignore_default](https://github.com/siramsay/100-days-of-code/blob/master/.gitignore_default)
 
 
 ### Day 1: 2020, November 5, Thursday
