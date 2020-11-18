@@ -11,8 +11,6 @@
 **Thoughts:** shame chrome is buggy with intersection planes, good to experiment though.
 
 **Link to work:** 
-[3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
-[simonramsay.net](https://simonramsay.net)
 1. [3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
 2. [simonramsay.net](https://simonramsay.net)
 
