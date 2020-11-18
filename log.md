@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 2: 2020 November 18, Wednesday
+
+**Today's Progress**:
+
+1. Worked on gradients in CSS, layering backgrounds
+2. Worked with 3D and animation in CSS. Got the Atomic animation posted on codepen. 
+3. vuejs site added scroll behaviour and removed the hash in the routes. 
+
+**Thoughts:** shame chrome is buggy with intersection planes, good to experiment though.
+
+**Link to work:** 
+[3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
+[simonramsay.net](https://simonramsay.net)
+
+
 ### Day 1: 2020 November 17, Tuesday
 
 **Today's Progress**: 
