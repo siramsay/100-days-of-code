@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 3: 2020 November 19, Thursday
+
+**Today's Progress**:
+
+1. Drupal theme for taxonomy pages, documented twig template better to re-use styles already in use DRY 
+2. Fixed the Atom animation, removed blur filters, and changed transform from heigh/width to scale
+3. Worked on Vue.js transitions for a bit.
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
+2. [Example of the taxonomy page](https://designkojo.com/accessibility)
+
 ### Day 2: 2020 November 18, Wednesday
 
 **Today's Progress**:
@@ -58,7 +72,6 @@
 
 **Thoughts**: Not quite ready to push the boiler plate public but will do once I feel others could understand it and maybe find it useful, no rush really.
 
-**Link(s) to work**: ~~[.gitignore_default](https://github.com/siramsay/100-days-of-code/blob/master/.gitignore_default)
 **Link(s) to work**: [.gitignore_default](https://github.com/siramsay/100-days-of-code/blob/master/.gitignore_default)
 
 
