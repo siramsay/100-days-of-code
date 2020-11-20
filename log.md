@@ -1,11 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 4: 2020 November 20, Friday
+
+**Today's Progress**:
+
+1. Worked on radial gradients in CSS.
+2. Coded up prefers-color-scheme mode widget, added to codepen.io.
+
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [Prefers Color Scheme Widget on Codepen](https://codepen.io/simonramsay/pen/KKMLbjN)
+
+
 ### Day 3: 2020 November 19, Thursday
 
 **Today's Progress**:
 
 1. Drupal theme for taxonomy pages, documented twig template better to re-use styles already in use DRY 
-2. Fixed the Atom animation, removed blur filters, and changed transform from heigh/width to scale
+2. Fixed the Atom animation, removed blur filters, and changed transform from height/width to scale
 3. Worked on Vue.js transitions for a bit.
 
 **Thoughts:** 
