@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 6: 2020 November 22, Sunday
+
+**Today's Progress**:
+
+1. CSS transform: rotateY translate.
+2. Made a cube just by thinking about it, step by step. Added some helper 3D planes.
+
+**Thoughts:** Element in CSS are doubled sided, I guess the same a 3D software default. As you rotate elements the axis/planes are rotated with it. So translate remains perpendicular to the plane..
+
+**Link to work:** 
+1. /localhost / 3D.html
+
+### Day 5: 2020 November 21, Saturday
+
+**Today's Progress**:
+
+1. Made the rainbow with CSS radial-gradients.
+2. Worked on 3D in CSS transform: rotateY translate3d.
+
+**Thoughts:** Getting your head around 3D space with code is difficult
+
+**Link to work:** 
+1. /localhost / gradients
+
 ### Day 4: 2020 November 20, Friday
 
 **Today's Progress**:
@@ -7,12 +31,10 @@
 1. Worked on radial gradients in CSS.
 2. Coded up prefers-color-scheme mode widget, added to codepen.io.
 
-
 **Thoughts:** 
 
 **Link to work:** 
 1. [Prefers Color Scheme Widget on Codepen](https://codepen.io/simonramsay/pen/KKMLbjN)
-
 
 ### Day 3: 2020 November 19, Thursday
 
@@ -41,7 +63,6 @@
 **Link to work:** 
 1. [3D Atom](https://codepen.io/simonramsay/full/NWrmjqj)
 2. [simonramsay.net](https://simonramsay.net)
-
 
 ### Day 1: 2020 November 17, Tuesday
 
