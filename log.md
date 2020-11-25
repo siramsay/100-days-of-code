@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 8: 2020 November 24, Tuesday
+
+**Today's Progress**:
+
+1. CSS/  translate-origin transform: rotateY translate.
+2. Made some items with triangles made with clip-path: polygon().
+
+**Thoughts:** Translate origin does quite work how I thought, with 3D in particular, so went back to the setting
+ translate in the transform rule.
+
+**Link to work:** 
+1. /localhost / Triangle-study
+
+### Day 7: 2020 November 23, Monday
+
+**Today's Progress**:
+
+1. CSS transform: rotateY translate.
+2. Made a step by step "cheat-sheet", not quite finished.
+
+**Thoughts:** Making the step of the cube makes things really stick, the order in important.
+
+**Link to work:** 
+1. /localhost / 3D.html
+
 ### Day 6: 2020 November 22, Sunday
 
 **Today's Progress**:
