@@ -7,7 +7,7 @@
 1. CSS transform: rotateY translate.
 2. Made a cube just by thinking about it, step by step. Added some helper 3D planes.
 
-**Thoughts:** Element in CSS are doubled sided, I guess the same a 3D software default. As you rotate elements the axis/planes are rotated with it. So translate remains perpendicular to the plane..
+**Thoughts:** Element in CSS are doubled sided, I guess the same a 3D software default. As you rotate elements the axis/planes are rotated with it. So translate remains perpendicular to the plane.
 
 **Link to work:** 
 1. /localhost / 3D.html
