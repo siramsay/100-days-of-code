@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: 2020 November 25, Wednesday
+
+**Today's Progress**:
+
+1. Worked on 3D space in CSS. Mainly grouping of elements to make objects re-usable. Plus animation of the 3D space.
+
+**Thoughts:** CSS 3D as it is limited but fact that things don't scale automatically on distant from the viewer.
+
+**Link to work:** 
+1. /localhost / sample render https://twitter.com/designkojo/status/1331576553344405509?s=20
+
 ### Day 8: 2020 November 24, Tuesday
 
 **Today's Progress**:
