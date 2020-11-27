@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 11: 2020 November 27, Friday
+
+**Today's Progress**:
+
+1. Vue.js / Router and Dynamic Components
+
+**Thoughts:** 
+
+**Link to work:** 
+1. In coming links to work
+
+### Day 10: 2020 November 26, Thursday
+
+**Today's Progress**:
+
+1. CSS Gradients, CSS clip-path
+2. Vue $se() method and todo app. 
+
+**Thoughts:** CGetting the hang of Gradients
+
+**Link to work:** 
+1. /localhost / Triangle-study 
+2. /localhost / vue-todo
+3. In coming links to work
+
 ### Day 9: 2020 November 25, Wednesday
 
 **Today's Progress**:
