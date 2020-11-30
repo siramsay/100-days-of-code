@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 14: 2020 November 30, Monday
+
+**Today's Progress**:
+
+1. CSS Gradients, CSS clip-path polgon and firefox
+
+**Thoughts:** 
+
+**Link to work:** 
+1. In coming links to work
+
+### Day 13: 2020 November 29, Sunday
+
+**Today's Progress**:
+
+1. CSS Gradients/ repeating
+2. CSS clip-path url(#myPath) and SVG transform scale()
+
+**Thoughts:** SVG Transform is now stuck in the mind, good to review this as if you want to use complex paths and support all browsers it is necessary.
+
+**Link to work:** 
+1. In coming links to work
+
+### Day 12: 2020 November 28, Saturday
+
+**Today's Progress**:
+
+1. CSS / perspective and large planes to get a vanishing point, broke chrome with % over 999. on height of rotated planes. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. In coming links to work
+
 ### Day 11: 2020 November 27, Friday
 
 **Today's Progress**:
