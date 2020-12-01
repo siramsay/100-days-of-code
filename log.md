@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 15: 2020 December 1, Tuesday
+
+**Today's Progress**:
+
+1. CSS / Finished off Tron Perspective Study, placement of buildings in 3D space, sun gradient, sky gradient, clip-path
+
+**Thoughts:** 3D space is limited when working with large scenes but workable. Broke Chrome again with high DPI 5K screen, need to look at that.
+
+**Link to work:** 
+1. [Tron: A study of perpective](https://codepen.io/simonramsay/full/qBadKZO9)
+
 ### Day 14: 2020 November 30, Monday
 
 **Today's Progress**:
 
-1. CSS Gradients, CSS clip-path polgon and firefox
+1. CSS Gradients, CSS clip-path polygon and firefox
 
 **Thoughts:** 
 
@@ -50,9 +61,9 @@
 **Today's Progress**:
 
 1. CSS Gradients, CSS clip-path
-2. Vue $se() method and todo app. 
+2. Vue $set() method and todo app. 
 
-**Thoughts:** CGetting the hang of Gradients
+**Thoughts:** Getting the hang of Gradients
 
 **Link to work:** 
 1. /localhost / Triangle-study 
