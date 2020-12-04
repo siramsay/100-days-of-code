@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 18: 2020 December 4, Friday
+
+**Today's Progress**:
+
+1. Vue.js / worked on understanding primitives and reference type but playing around with $set() method and writing about it.
+2. Vue.js / made a few tweaks to the todo app, added v-if to button label and li item !edit, so it hides when you edit.
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
+### Day 17: 2020 December 3, Thursday
+
+**Today's Progress**:
+
+1. Vue.js / fix route problem after various attempts, added the  _redirects file in the public directory
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
+### Day 16: 2020 December 2, Wednesday
+
+**Today's Progress**:
+
+1. Vue.js / Edit Input with v-if
+2. Clip-path Christmas Tree
+
+**Thoughts:** Years for study is paying off. It seems how I understand how things should work, they do.
+
+**Link to work:** 
+1. Local
+
 ### Day 15: 2020 December 1, Tuesday
 
 **Today's Progress**:
