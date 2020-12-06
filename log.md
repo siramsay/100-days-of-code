@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 20: 2020 December 6, Sunday
+
+**Today's Progress**:
+
+1. Vue.js / Shop app add items, plus counter. 
+2. Vue.js / research WYSIWYG for text area in todo app. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
+### Day 19: 2020 December 5, Saturday
+
+**Today's Progress**:
+
+1. Vue.js / todo app / make edit text area, add pre-wrapper for white-space add fontello placeholder.
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
 ### Day 18: 2020 December 4, Friday
 
 **Today's Progress**:
