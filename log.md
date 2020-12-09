@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 20: 2020 December 9, Wednesday
+### Day 23: 2020 December 9, Wednesday
 
 **Today's Progress**:
 
@@ -13,7 +13,7 @@
 1. Githb - repo is private, will make public and add link here within the next few days
 
 
-### Day 20: 2020 December 8, Tuesday
+### Day 22: 2020 December 8, Tuesday
 
 **Today's Progress**:
 
@@ -24,7 +24,7 @@
 **Link to work:** 
 1. Local
 
-### Day 20: 2020 December 8, Tuesday
+### Day 21: 2020 December 8, Tuesday
 
 **Today's Progress**:
 
