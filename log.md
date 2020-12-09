@@ -1,5 +1,52 @@
 # 100 Days Of Code - Log
 
+### Day 20: 2020 December 9, Wednesday
+
+**Today's Progress**:
+
+1. JS Game / pushed to Github using hub create -p
+2. Tidied up some CSS 3D file for creating 3D objects.
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Githb - repo is private, will make public and add link here within the next few days
+
+
+### Day 20: 2020 December 8, Tuesday
+
+**Today's Progress**:
+
+1. JS Game / 6 step 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
+### Day 20: 2020 December 8, Tuesday
+
+**Today's Progress**:
+
+1. JS Game / 6 step 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
+### Day 20: 2020 December 7, Monday
+
+**Today's Progress**:
+
+1. Drupal 9 update / manual
+2. Drupal 9 Create new install using composer, install composer 
+
+**Thoughts:** doc are pretty good, some are now online for all to use.
+
+**Link to work:** 
+1. [Update Doc](https://designkojo.com/update-core-drupal)
+
 ### Day 20: 2020 December 6, Sunday
 
 **Today's Progress**:
