@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24 2020 December 10, Thursday
+
+**Today's Progress**:
+
+1. JS Game / pushed to Github using hub create -p
+2. Played around with position : sticky 
+3. Refactored To do App for step 1 of my article😉
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local/Githhb - repo is private, will make public and add link here within the next few days
+2. Local CSS folder for sticky work - will put somewhere one
+3. [Todo App](https://codepen.io/simonramsay/pen/VwKKgBR)
+
+
 ### Day 23: 2020 December 9, Wednesday
 
 **Today's Progress**:
@@ -10,7 +26,7 @@
 **Thoughts:** 
 
 **Link to work:** 
-1. Githb - repo is private, will make public and add link here within the next few days
+1. Githhb - repo is private, will make public and add link here within the next few days
 
 
 ### Day 22: 2020 December 8, Tuesday
