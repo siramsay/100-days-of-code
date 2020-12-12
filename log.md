@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 25 2020 December 11, Friday
+
+**Today's Progress**:
+
+1. CSS 3D / worked on some shapes and refactored my starter (will starter to Github once v.01 is ready)
+2. JS events / review them and that sunk in nicely
+
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local
+
 ### Day 24 2020 December 10, Thursday
 
 **Today's Progress**:
