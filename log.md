@@ -1,12 +1,48 @@
 # 100 Days Of Code - Log
 
+
+### Day 28 2020 December 14, Monday
+
+**Today's Progress**:
+
+1. JS Game / pushed to Github
+
+**Thoughts:** good to be working on solving a problem that has logic and commiting on the step in the readme
+
+**Link to work:** 
+1. Local / Github private
+
+### Day 27 2020 December 13, Sunday
+
+**Today's Progress**:
+
+1. JS Game / pushed to Github
+
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / Github private
+
+### Day 26 2020 December 12, Saturday
+
+**Today's Progress**:
+
+1. JS Game / pushed to Github
+
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / Github private
+
+
 ### Day 25 2020 December 11, Friday
 
 **Today's Progress**:
 
 1. CSS 3D / worked on some shapes and refactored my starter (will starter to Github once v.01 is ready)
 2. JS events / review them and that sunk in nicely
-
 
 **Thoughts:** 
 
@@ -17,7 +53,7 @@
 
 **Today's Progress**:
 
-1. JS Game / pushed to Github using hub create -p
+1. JS Game / pushed to Github
 2. Played around with position : sticky 
 3. Refactored To do App for step 1 of my article😉
 
