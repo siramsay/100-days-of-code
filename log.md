@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 30 2020 December 16, Wednesday
+
+**Today's Progress**:
+
+1. JS Game / Wrote code for V9 & pushed to Github
+
+**Thoughts:** my JS is better, my understanding of code in general is leveled up with this game, I can write psuedocode that actually works 
+
+**Link to work:** 
+1. Local / Github private
+
+### Day 29 2020 December 14, Tuesday
+
+**Today's Progress**:
+
+1. JS Game / wrote pseudd code for commit V9
+2. Tidied up some theme code on a very unloved site I will be redesigning shortly :)
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / Github private
+2. [Niseko Snow](https://nisekosnow.net)
 
 ### Day 28 2020 December 14, Monday
 
