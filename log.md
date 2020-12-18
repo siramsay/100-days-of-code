@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 32 2020 December 18, Friday
+
+**Today's Progress**:
+
+1. JS Game / refactoring, writing pseudo code for final tweaks for demo. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / Github private
+
+### Day 31 2020 December 17, Thursday
+
+**Today's Progress**:
+
+1. JS Game / Wrote code for V10 & pushed to Github. Mainly refactoring, usability, and bugs squashing
+
+**Thoughts:** my JS is better, my understanding of code in general is leveled up with this game, I can write psuedocode that actually works 
+
+**Link to work:** 
+1. Local / Github private
+
+
 ### Day 30 2020 December 16, Wednesday
 
 **Today's Progress**:
