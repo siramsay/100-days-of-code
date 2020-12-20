@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 34 2020 December 20, Sunday
+
+**Today's Progress**:
+
+1. JS Game / made the buttons disabled between goes, but first needed to change clickable div to buttons. disable doesn't work on divs even when click()  
+
+**Thoughts:** still need to refined the code, seems to be a lot of repeated lines, not very DRY. 
+
+**Link to work:** 
+1. Local / Github private
+
 ### Day 33 2020 December 19, Saturday
 
 **Today's Progress**:
