@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 33 2020 December 19, Saturday
+
+**Today's Progress**:
+
+1. JSON day, studied and set up some filter and sorts for my Drupal JSON endpoint for simonramsay.net
+
+**Thoughts:** not so much to show but after playing around the JSON API tha comes with Drupal is good, main lesson learnt was you need to filter on access as I was not getting all published article on the vue.js site.
+
+**Link to work:** 
+1. [simonramsay.net](https://simonramsay.net)
+2. Article on JSON API coming 
+
+
 ### Day 32 2020 December 18, Friday
 
 **Today's Progress**:
