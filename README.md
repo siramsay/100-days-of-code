@@ -9,7 +9,7 @@
 **Thoughts:** 
 
 **Link to work:** 
-1. [designkojo.com](https://desginkojo.com)]
+1. [designkojo.com](https://designkojo.com)
 
 
 ### Day 34 2020 December 20, Sunday
