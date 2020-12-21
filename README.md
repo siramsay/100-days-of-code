@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 35 2020 December 21, Monday
+
+**Today's Progress**:
+
+1. Worked Dk theme for Drupal, preparing for redesign: refactoring and documenting. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [designkojo.com](https://desginkojo.com)]
+
+
 ### Day 34 2020 December 20, Sunday
 
 **Today's Progress**:
