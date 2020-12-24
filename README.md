@@ -1,21 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 37 2020 December 23, Wednesday
+### Day 38 2020 December 24, Thursday
 
 **Today's Progress**:
 
-1. 
+1. Scroll Snap experiments 
+2. 3D and JS work / Starter
 
 **Thoughts:** 
 
 **Link to work:** 
-1. 
+1. Local / 3d Starter
+2. Scroll Snap
+
+### Day 37 2020 December 23, Wednesday
+
+**Today's Progress**:
+
+1. Google Charts modification. Targeting elements with CSS to hide various elements. Used mainly direct descendants selectors > 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / in production (hidden) [https://nisekosnow.net](nisekosnow.net/snowfall-2)
 
 ### Day 36 2020 December 23, Tuesday
 
 **Today's Progress**:
 
-1. Google Charts modification for line graphs. Learn about SVG layering and how to bring element to the top
+1. Google Charts modification for line graphs. Learn about SVG layering and how to bring element to the top. Scaled SVG and made presentation modification.
 
 **Thoughts:** Working on old code base is not fun :) also unsure about Google Charts for line graphs of multiple year, seem like the way the API stack elments is hard to control. 
 
