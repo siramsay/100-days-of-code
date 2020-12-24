@@ -22,7 +22,7 @@
 **Thoughts:** 
 
 **Link to work:** 
-1. Local / in production (hidden) [https://nisekosnow.net](nisekosnow.net/snowfall-2)
+1. Local / in production (hidden) [https://nisekosnow.net](https://nisekosnow.net/snowfall-2)
 
 ### Day 36 2020 December 23, Tuesday
 
@@ -33,7 +33,7 @@
 **Thoughts:** Working on old code base is not fun :) also unsure about Google Charts for line graphs of multiple year, seem like the way the API stack elments is hard to control. 
 
 **Link to work:** 
-1. Local / in production [https://nisekosnow.net](nisekosnow.net/snowfall)
+1. Local / in production [https://nisekosnow.net](https://nisekosnow.net/snowfall)
 
 ### Day 35 2020 December 21, Monday
 
