@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 37 2020 December 23, Wednesday
+
+**Today's Progress**:
+
+1. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. 
+
+### Day 36 2020 December 23, Tuesday
+
+**Today's Progress**:
+
+1. Google Charts modification for line graphs. Learn about SVG layering and how to bring element to the top
+
+**Thoughts:** Working on old code base is not fun :) also unsure about Google Charts for line graphs of multiple year, seem like the way the API stack elments is hard to control. 
+
+**Link to work:** 
+1. Local / in production [https://nisekosnow.net](nisekosnow.net/snowfall)
+
 ### Day 35 2020 December 21, Monday
 
 **Today's Progress**:
