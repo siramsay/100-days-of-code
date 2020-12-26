@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 40 2020 December 26, Saturday
+
+**Today's Progress**:
+
+1. Scroll Snap experiments / touchmove, getBoundingClientRect()  
+2. 3D and JS work / Starter: event listeners and domEvents. Thought about rotate object solution and pseudo code.
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / 3d Starter
+2. Local / Scroll Snap
+
+### Day 39 2020 December 25, Friday
+
+**Today's Progress**:
+
+1. 3D and JS work / Starter: event listeners and domEvents, rotate objects
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / 3d Starter
+
 ### Day 38 2020 December 24, Thursday
 
 **Today's Progress**:
