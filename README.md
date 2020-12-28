@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 42 2020 December 28, Monday
+
+**Today's Progress**:
+
+1. JS Game / worked on UI and clip path, sizing. used url(#)
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / JS Game
+
+### Day 41 2020 December 27, Sunday
+
+**Today's Progress**:
+
+1. JS Game / worked on UI and clip path from illustrator, sizing. used path() 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / JS Game
+
+
 ### Day 40 2020 December 26, Saturday
 
 **Today's Progress**:
