@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 43 2020 December 29, Tuesday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS
+
+**Thoughts:** good practice to work on the cascade 
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 42 2020 December 28, Monday
 
 **Today's Progress**:
