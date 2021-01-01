@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 45 2020 December 1, Friday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
+### Day 45 2020 December 31, Thursday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
+### Day 44 2020 December 30, Wednesday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS
+
+**Thoughts:** 
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 43 2020 December 29, Tuesday
 
 **Today's Progress**:
