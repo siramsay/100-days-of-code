@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 45 2020 December 1, Friday
+### Day 46 2020 December 1, Friday
 
 **Today's Progress**:
 
