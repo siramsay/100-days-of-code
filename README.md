@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 48 2020 December 3, Sunday
+
+**Today's Progress**:
+
+1. Created git rep for project, created new branch.
+2. 3D Cube with CSS and JS / Branch Responsive.
+
+**Thoughts:**  Flex-basis doesn't work with absolute. Need to refactor as per day 47.
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
+### Day 47 2020 December 2, Saturday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS / worked on Logic to turn off and on the transformations
+
+**Thoughts:** Will need to use JavaScript and define style in a style attribute.
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 46 2020 December 1, Friday
 
 **Today's Progress**:
@@ -59,7 +82,7 @@
 
 **Today's Progress**:
 
-1. JS Game / worked on UI and clip path from illustrator, sizing. used path() 
+1. JS Game / worked on UI and clip path from Illustrator, sizing. used path() 
 
 **Thoughts:** 
 
