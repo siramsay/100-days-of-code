@@ -12,6 +12,16 @@
 1. Local / 3d Cube JS
 
 ### Day 49 2020 December 4, Monday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS / Branch Responsive work on some JS tweaks
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 48 2020 December 3, Sunday
 
 **Today's Progress**:
