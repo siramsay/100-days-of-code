@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 50 2020 December 5, Tuesday
+
+**Today's Progress**:
+
+1. 3D Cube with CSS and JS / Branch Responsive.
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 48 2020 December 3, Sunday
 
 **Today's Progress**:
