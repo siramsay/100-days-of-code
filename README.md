@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 51 2020 December 6, Wednesday
+
+**Today's Progress**:
+
+1. Review and Refactor Simon Game
+2. Fix 3D Cube with CSS non JS version
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / Simon 
+
+
 ### Day 50 2020 December 5, Tuesday
 
 **Today's Progress**:
