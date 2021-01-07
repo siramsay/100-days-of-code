@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 52 2020 December 7, Thursday
+
+**Today's Progress**:
+
+1. 
+
+**Thoughts:**  
+
+**Link to work:** 
+1. Local / 3d Cube JS
+
 ### Day 51 2020 December 6, Wednesday
 
 **Today's Progress**:
