@@ -1,15 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 54 2020 December 9, Saturday
+
+**Today's Progress**:
+
+1. events and querySelectorAll with Vanilla JS, also tried to integrate with Vue.js 
+
+**Thoughts:** inside .querySelectorAll(".class").forEach(... function gets a bit confusing, could track events object values on the selected element but my inner functions and conditional didn't work, yet.
+
+**Link to work:**
+1. Local / Snap Scroll 
+
+### Day 53 2020 December 8, Friday
+
+**Today's Progress**:
+
+1. Finished off the image reveal, added a night image when you swipe to the left of the image.
+
+**Thoughts:** getBoundingClientRect() was used to work out when the mouse position was less than 0 to show the night image.
+
+**Link to work:**
+1. [Reveal Hide Image Codepen](https://codepen.io/simonramsay/pen/KKgBMyd)
+
 ### Day 52 2020 December 7, Thursday
 
 **Today's Progress**:
 
-1. 
+1. Work on the reveal hide winter summer of the home that I posted the other day.
 
-**Thoughts:**  
+**Thoughts:** used getBoundingClientRect() it returns a DOMRect {} object, which you can use to modify the position of the mouse relative to the element.
 
 **Link to work:** 
-1. Local / 3d Cube JS
+1. Local / Expose Hide Image
 
 ### Day 51 2020 December 6, Wednesday
 
