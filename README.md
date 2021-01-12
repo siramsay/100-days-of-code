@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 56 2020 December 11, Monday
+
+**Today's Progress**:
+
+1. Integrate with Vue.js 3D cube with vue.js 
+
+**Thoughts:** 
+
+**Link to work:**
+1. Local / vuejs 3d cube
+
+### Day 55 2020 December 10, Sunday
+
+**Today's Progress**:
+
+1. events and querySelectorAll with Vanilla JS, integrated with Vue.js
+
+**Thoughts:** inside .querySelectorAll(".class").forEach(... function gets a bit confusing, could track events object values on the selected element but my inner functions and conditional didn't work, yet.
+
+**Link to work:**
+1. Local / Snap Scroll
+2  Local / vue todo snap scroll
+
 ### Day 54 2020 December 9, Saturday
 
 **Today's Progress**:
