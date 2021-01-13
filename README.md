@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 57 2020 December 12, Tuesday
+
+**Today's Progress**:
+
+1.  Vue.js 3D cube / worked with CSS objects for v-bind and CSS code. 
+
+**Thoughts:** Be nice for easy conversion between JS CSS objects and CSS for stylesheets
+
+**Link to work:**
+1. Local / vuejs 3d cube
+
+
 ### Day 56 2020 December 11, Monday
 
 **Today's Progress**:
 
-1. Integrate with Vue.js 3D cube with vue.js 
+1. Integrate with Vue.js / 3D cube with vue.js 
 
 **Thoughts:** 
 
