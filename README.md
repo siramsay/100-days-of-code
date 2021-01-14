@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 58 2020 December 13, Wednesday
+
+**Today's Progress**:
+
+1.  Recode 3D cube resources for article, make responsive. 
+
+**Thoughts:** 
+
+**Link to work:**
+1. Local / 3D cube
+
 ### Day 57 2020 December 12, Tuesday
 
 **Today's Progress**:
