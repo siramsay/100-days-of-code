@@ -1,6 +1,39 @@
 # 100 Days Of Code - Log
 
-### Day 59 2020 December 14, Thursday
+### Day 62 2020 January 17, Sunday
+
+**Today's Progress**:
+
+1. Worked on 3D spaces with CSS & Gradients.
+
+**Thoughts:**
+
+**Link to work:**
+1. Local / Gradients Rainbow
+
+### Day 61 2020 January 16, Saturday
+
+**Today's Progress**:
+
+1. Worked on 3D spaces with CSS & Gradients.
+
+**Thoughts:**
+
+**Link to work:**
+1. Local / Gradients Rainbow
+
+### Day 60 2020 January 15, Friday
+
+**Today's Progress**:
+
+1.  Worked on 3D spaces with CSS & Gradients.
+
+**Thoughts:**
+
+**Link to work:**
+1. Local / Gradients Rainbow
+
+### Day 59 2020 January 14, Thursday
 
 **Today's Progress**:
 
@@ -11,7 +44,7 @@
 **Link to work:**
 1. Local / 3D cube
 
-### Day 58 2020 December 13, Wednesday
+### Day 58 2020 January 13, Wednesday
 
 **Today's Progress**:
 
@@ -22,7 +55,7 @@
 **Link to work:**
 1. Local / 3D cube
 
-### Day 57 2020 December 12, Tuesday
+### Day 57 2020 January 12, Tuesday
 
 **Today's Progress**:
 
@@ -34,7 +67,7 @@
 1. Local / vuejs 3d cube
 
 
-### Day 56 2020 December 11, Monday
+### Day 56 2021 January 11, Monday
 
 **Today's Progress**:
 
@@ -45,7 +78,7 @@
 **Link to work:**
 1. Local / vuejs 3d cube
 
-### Day 55 2020 December 10, Sunday
+### Day 55 2021 January 10, Sunday
 
 **Today's Progress**:
 
@@ -57,7 +90,7 @@
 1. Local / Snap Scroll
 2  Local / vue todo snap scroll
 
-### Day 54 2020 December 9, Saturday
+### Day 54 2021 January 9, Saturday
 
 **Today's Progress**:
 
@@ -68,7 +101,7 @@
 **Link to work:**
 1. Local / Snap Scroll 
 
-### Day 53 2020 December 8, Friday
+### Day 53 2021 January 8, Friday
 
 **Today's Progress**:
 
@@ -79,7 +112,7 @@
 **Link to work:**
 1. [Reveal Hide Image Codepen](https://codepen.io/simonramsay/pen/KKgBMyd)
 
-### Day 52 2020 December 7, Thursday
+### Day 52 2021 January 7, Thursday
 
 **Today's Progress**:
 
@@ -90,7 +123,7 @@
 **Link to work:** 
 1. Local / Expose Hide Image
 
-### Day 51 2020 December 6, Wednesday
+### Day 51 2021 January 6, Wednesday
 
 **Today's Progress**:
 
@@ -103,7 +136,7 @@
 1. Local / Simon 
 
 
-### Day 50 2020 December 5, Tuesday
+### Day 50 2021 January 5, Tuesday
 
 **Today's Progress**:
 
@@ -114,7 +147,7 @@
 **Link to work:** 
 1. Local / 3d Cube JS
 
-### Day 49 2020 December 4, Monday
+### Day 49 2021 January 4, Monday
 
 **Today's Progress**:
 
@@ -125,7 +158,7 @@
 **Link to work:** 
 1. Local / 3d Cube JS
 
-### Day 48 2020 December 3, Sunday
+### Day 48 2021 January 3, Sunday
 
 **Today's Progress**:
 
@@ -137,7 +170,7 @@
 **Link to work:** 
 1. Local / 3d Cube JS
 
-### Day 47 2020 December 2, Saturday
+### Day 47 2021 January 2, Saturday
 
 **Today's Progress**:
 
@@ -148,7 +181,7 @@
 **Link to work:** 
 1. Local / 3d Cube JS
 
-### Day 46 2020 December 1, Friday
+### Day 46 2021 January 1, Friday
 
 **Today's Progress**:
 
