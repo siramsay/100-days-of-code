@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 63 2020 January 18, Monday
+
+**Today's Progress**:
+
+1. Worked on some form input element styling. Few different style ideas.
+
+**Thoughts:**
+
+**Link to work:**
+1. Local / In Dev tool & saved to Quiver notebook.
+
 ### Day 62 2020 January 17, Sunday
 
 **Today's Progress**:
