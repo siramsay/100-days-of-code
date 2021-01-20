@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 64 2020 January 19, Tuesday
+
+**Today's Progress**:
+
+1. Contiued with Sundays work, 3D spaces with CSS & Gradients. animations
+
+**Thoughts:** 
+
+**Link to work:**
+1. Local / Gradients Rainbow & Perspective
+
 ### Day 63 2020 January 18, Monday
 
 **Today's Progress**:
