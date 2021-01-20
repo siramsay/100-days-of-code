@@ -4,7 +4,7 @@
 
 **Today's Progress**:
 
-1. Contiued with Sundays work, 3D spaces with CSS & Gradients. animations
+1. Continued with Sundays work, 3D spaces with CSS & Gradients. animations
 
 **Thoughts:** 
 
