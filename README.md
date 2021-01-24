@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 69 2020 January 24, Sunday
+
+**Today's Progress**:
+
+1. SPA Drupal / Paragraph module D7 Patching
+
+**Thoughts:**
+
+**Link to work:**
+1. M&M / Blok Travel
+
+### Day 68 2020 January 23, Saturday
+
+**Today's Progress**:
+
+1. 3D spaces with CSS / Translate X
+
+**Thoughts:**
+
+**Link to work:**
+1. Local / Perspective
+
 ### Day 67 2020 January 22, Friday
 
 **Today's Progress**:
