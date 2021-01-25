@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70 2020 January 25, Monday
+
+**Today's Progress**:
+
+1. Food App / Vue.js / add to array newItem, add quantity, add to shoplist
+
+**Thoughts:** Good to be able to code this up with existing knowledge
+
+**Link to work:**
+1. Vue.js / Shop App
+
 ### Day 69 2020 January 24, Sunday
 
 **Today's Progress**:
