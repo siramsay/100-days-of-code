@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 71 2020 January 26, Tuesday
+
+**Today's Progress**:
+
+1. Food App / Vue.js / edit items num, minor design/ CSS
+
+**Thoughts:** 
+
+**Link to work:**
+1. Vue.js / Shop App
+
 ### Day 70 2020 January 25, Monday
 
 **Today's Progress**:
