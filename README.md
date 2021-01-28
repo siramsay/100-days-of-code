@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 73 2020 January 28, Thursday
+
+**Today's Progress**:
+
+1. Food App / Vue.js / made app mobile size CSS 
+2. Food App / Vue.js / experimented with item.num being a select so mobile can use dial to select
+
+**Thoughts:** unsure if select dial is actually that useful
+
+**Link to work:**
+1. Vue.js / Shop App
+
+### Day 72 2020 January 27, Wednesday
+
+**Today's Progress**:
+
+1. Food App / Vue.js / added edit and save to Shopping list section
+2. forgot to add count to splice() so fixed that after some testing picked that up as a bug
+
+**Thoughts:**
+
+**Link to work:**
+1. Vue.js / Shop App
+
 ### Day 71 2020 January 26, Tuesday
 
 **Today's Progress**:
