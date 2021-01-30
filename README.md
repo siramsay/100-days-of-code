@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 74 2020 January 29, Friday
+
+**Today's Progress**:
+
+1. Set up Git environment with branches.
+2. Re-factored Code 
+
+**Thoughts:** 
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git/
+
 ### Day 73 2020 January 28, Thursday
 
 **Today's Progress**:
