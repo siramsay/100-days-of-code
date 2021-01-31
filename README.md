@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 75 2020 January 30, Saturday
+
+**Today's Progress**:
+
+1. JS Global variables and functions, working on rotation 
+2. Minor UI fixes
+
+**Thoughts:** 
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git
+
 ### Day 74 2020 January 29, Friday
 
 **Today's Progress**:
