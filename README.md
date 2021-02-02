@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 77 2020 January 31, Monday
+
+**Today's Progress**:
+
+1. JS Global variables VS Switch 
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git
+
+### Day 76 2020 January 31, Sunday
+
+**Today's Progress**:
+
+1. JS Global variables and functions, finished up and got working
+2. Re-factored Code / Made a better rotation controller
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git
+
 ### Day 75 2020 January 30, Saturday
 
 **Today's Progress**:
