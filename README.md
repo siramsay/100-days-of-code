@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 77 2020 January 31, Monday
+### Day 78 2020 February 3, Wednesday
+
+**Today's Progress**:
+
+1. Filters & Computed filters
+2. 
+
+**Thoughts:** 
+
+**Link to work:**
+1. Vue / 
+
+### Day 78 2020 February 2, Tuesday
+
+**Today's Progress**:
+
+1. Tidied up code and committed
+2. Experimented with cube faces being div inside div but translate works on rotation so doesn't work.
+
+**Thoughts:** Will need to work on full JS solution for face.
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git
+
+### Day 77 2020 February 1, Monday
 
 **Today's Progress**:
 
