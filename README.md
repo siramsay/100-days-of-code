@@ -1,16 +1,39 @@
 # 100 Days Of Code - Log
 
-### Day 78 2020 February 3, Wednesday
+### Day 81 2020 February 5, Friday
+
+**Today's Progress**:
+
+1. 
+
+**Thoughts:**
+
+**Link to work:**
+1. 
+
+### Day 80 2020 February 4, Thursday
+
+**Today's Progress**:
+
+1. Tidied up UI 
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS /3D /3d cube Global with Git
+
+### Day 79 2020 February 3, Wednesday
 
 **Today's Progress**:
 
 1. Filters & Computed filters
-2. 
+2. Experimented with cube faces being div inside div from yesterday, reverse the CSS rules put the translate inside the rotation
 
 **Thoughts:** 
 
 **Link to work:**
-1. Vue / 
+1. Vue /
+2. CSS /3D /3d cube Global with Git
 
 ### Day 78 2020 February 2, Tuesday
 
@@ -19,7 +42,7 @@
 1. Tidied up code and committed
 2. Experimented with cube faces being div inside div but translate works on rotation so doesn't work.
 
-**Thoughts:** Will need to work on full JS solution for face.
+**Thoughts:** Will need to work on full JS solution for faces.
 
 **Link to work:**
 1. CSS /3D /3d cube Global with Git
