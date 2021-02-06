@@ -1,15 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 82 2020 February 6, Friday
+
+**Today's Progress**:
+
+1. Vanilla JS methods and RegExp and vue.js methods
+3. Computed filters / research 
+
+**Thoughts:** adding the new previousItems array and rendering it was a simple task
+
+**Link to work:**
+1. Vue / shop app
+
 ### Day 81 2020 February 5, Friday
 
 **Today's Progress**:
 
-1. 
+1. Set up Shop App
 
 **Thoughts:**
 
 **Link to work:**
-1. 
+1. Vue / shop App
 
 ### Day 80 2020 February 4, Thursday
 
