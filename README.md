@@ -1,11 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 82 2020 February 6, Friday
+### Day 83 2020 February 6, Sunday
+
+**Today's Progress**:
+
+1. Vanilla JS methods: make the preemptive search using Computed vue.js
+2. add items to previous products
+
+**Thoughts:** 
+
+**Link to work:**
+1. Vue / shop app
+
+### Day 82 2020 February 6, Saturday
 
 **Today's Progress**:
 
 1. Vanilla JS methods and RegExp and vue.js methods
-3. Computed filters / research 
+2. Computed filters / research 
 
 **Thoughts:** adding the new previousItems array and rendering it was a simple task
 
