@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 
-### Day 83 2020 February 6, Sunday
+
+### Day 83 2020 February 10, Wednesday
+
+**Today's Progress**:
+
+1. Drupal 8 updates and D9 upgrade checks, mostly command line and composer work
+
+**Thoughts:** due to a busy day I needed to do this instead of JS and CSS stuff, kind of an exception to my rule, not really work though. 
+
+**Link to work:**
+1. designkojo servers on dev sites
+
+### Day 83 2020 February 9, Tuesday
+
+**Today's Progress**:
+
+1. Continued to work on the shop app, tried to remove white space with charAt string method only to search and find trim().
+
+**Thoughts:** I wasn't successful in my attempt using charaAt() and conditionals, maybe I will try again one day.
+
+**Link to work:**
+1. Vue / shop app
+
+### Day 83 2020 February 8, Monday
+
+**Today's Progress**:
+
+1. Vanilla JS methods: checked data being pushed to array wasn't already there, basic conditionals
+
+**Thoughts:**
+
+**Link to work:**
+1. Vue / shop app
+
+### Day 83 2020 February 7, Sunday
 
 **Today's Progress**:
 
