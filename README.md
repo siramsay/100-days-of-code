@@ -1,7 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 88 2020 February 12, Friday
 
-### Day 83 2020 February 10, Wednesday
+**Today's Progress**:
+
+1. Event Listeners and scrollTop
+2. reviewed getBoundingClientRect() with scroll
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS / Scroll
+
+
+### Day 87 2020 February 11, Thursday
+
+**Today's Progress**:
+
+1. Tried to manually remove white space as the trim() method does.
+2. Learnt about white space between words using regex /\s\s+/g and replace 
+
+**Thoughts:** Challenging but still not quite done, need to loop. Might continue someday
+
+**Link to work:**
+1. Vue / shop app
+
+
+### Day 86 2020 February 10, Wednesday
 
 **Today's Progress**:
 
@@ -12,7 +37,7 @@
 **Link to work:**
 1. designkojo servers on dev sites
 
-### Day 83 2020 February 9, Tuesday
+### Day 85 2020 February 9, Tuesday
 
 **Today's Progress**:
 
@@ -23,7 +48,7 @@
 **Link to work:**
 1. Vue / shop app
 
-### Day 83 2020 February 8, Monday
+### Day 84 2020 February 8, Monday
 
 **Today's Progress**:
 
