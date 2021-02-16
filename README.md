@@ -1,5 +1,51 @@
 # 100 Days Of Code - Log
 
+### Day 88 2020 February 15, Monday
+
+**Today's Progress**:
+
+1. Add some basic Transitions
+
+**Thoughts:** need to branch site so I can work on all computers
+
+**Link to work:**
+1. Vue cli for SR/ Laptop only
+
+### Day 88 2020 February 14, Sunday
+
+**Today's Progress**:
+
+1. Finish scroll detection and animation script library  
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS / Scroll
+
+### Day 88 2020 February 13, Saturday
+
+**Today's Progress**:
+
+1. Build my own scroll detection and animation script using getBoundingClientRect() with scroll
+2. Vue.js Transitions review for site
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS / Scroll
+
+### Day 88 2020 February 12, Friday
+
+**Today's Progress**:
+
+1. Event Listeners and scrollTop
+2. reviewed getBoundingClientRect() with scroll
+
+**Thoughts:**
+
+**Link to work:**
+1. CSS / Scroll
+
 ### Day 88 2020 February 12, Friday
 
 **Today's Progress**:
