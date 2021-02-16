@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 88 2020 February 15, Monday
+### Day 92 2020 February 15, Monday
 
 **Today's Progress**:
 
@@ -11,7 +11,7 @@
 **Link to work:**
 1. Vue cli for SR/ Laptop only
 
-### Day 88 2020 February 14, Sunday
+### Day 91 2020 February 14, Sunday
 
 **Today's Progress**:
 
@@ -22,7 +22,7 @@
 **Link to work:**
 1. CSS / Scroll
 
-### Day 88 2020 February 13, Saturday
+### Day 90 2020 February 13, Saturday
 
 **Today's Progress**:
 
@@ -34,7 +34,7 @@
 **Link to work:**
 1. CSS / Scroll
 
-### Day 88 2020 February 12, Friday
+### Day 89 2020 February 12, Friday
 
 **Today's Progress**:
 
