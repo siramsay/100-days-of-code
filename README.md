@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 94 2020 February 17, Wednesday
+
+**Today's Progress**:
+
+1. Git / set up site on desktop, test branching, stash, and merge conflicts
+2. Altered menu with background on SPA.
+3. Played around with transitions on the header logos but did work.
+
+**Thoughts:** header logos are not on a route, they are part of the main app. need to think about this more, works well for a fixed header but when switching routes there is no nice transition.  
+
+**Link to work:**
+1. Vue cli for SR/ Github Private
+
+
+### Day 93 2020 February 16, Tuesday
+
+**Today's Progress**:
+
+1. Fix filters on Endpoint
+2. Group transitions 
+
+**Thoughts:** 
+
+**Link to work:**
+1. Vue cli for SR/ Laptop only
+
 ### Day 92 2020 February 15, Monday
 
 **Today's Progress**:
