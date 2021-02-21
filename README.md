@@ -1,5 +1,51 @@
 # 100 Days Of Code - Log
 
+### Day 98 2020 February 21, Sunday
+
+**Today's Progress**:
+
+1. Intersection API
+
+**Thoughts:**
+
+**Link to work:**
+1. nmb/ Intersection API
+
+### Day 97 2020 February 20, Saturday
+
+**Today's Progress**:
+
+1. Intersection API
+
+**Thoughts:**
+
+**Link to work:**
+1. nmb/ Intersection API
+
+
+### Day 96 2020 February 19, Friday
+
+**Today's Progress**:
+
+1. Intersection API
+
+**Thoughts:**
+
+**Link to work:**
+1. nmb/ Intersection API
+
+### Day 95 2020 February 18, Thursday
+
+**Today's Progress**:
+
+1. Intersection API
+
+**Thoughts:** 
+
+**Link to work:**
+1. nmb/ Intersection API
+
+
 ### Day 94 2020 February 17, Wednesday
 
 **Today's Progress**:
