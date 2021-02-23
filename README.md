@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 99 2020 February 22, Monday
+
+**Today's Progress**:
+
+1. Intersection API / options object, understanding root, margin, and threshold. 
+
+**Thoughts:**
+
+**Link to work:**
+1. nmb/ Intersection API
+
 ### Day 98 2020 February 21, Sunday
 
 **Today's Progress**:
@@ -15,7 +26,7 @@
 
 **Today's Progress**:
 
-1. Intersection API
+1. Intersection API / reviewed foreach for observer
 
 **Thoughts:**
 
