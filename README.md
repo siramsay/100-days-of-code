@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 100 2020 February 22, Tuesday
+
+**Today's Progress**:
+
+1. Intersection API / Add 2 IntersectionObserver() one foreach div element and one for the body to change based on an element.
+
+**Thoughts:** JavaScript is cool, no functions or objects were reused but that would be the next challenge
+
+**Link to work:**
+1. nmb/ Intersection API
+
 ### Day 99 2020 February 22, Monday
 
 **Today's Progress**:
